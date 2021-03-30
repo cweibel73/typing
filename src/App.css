@@ -1,0 +1,12 @@
+.app {
+  margin: 1em;
+  text-align: center;
+}
+
+p {
+  text-align: left;
+}
+textarea {
+  width: 90%;
+  height: 20em;
+}
